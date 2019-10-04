@@ -1,0 +1,83 @@
+.page{
+	width: 1500px;
+	height: auto;
+}
+.Photos{
+	width: 1500px;
+	height: 200px;
+	background-color: green;
+
+	
+}
+.Photos h1{
+	font-size: 70px;
+	padding-right: 90px;
+	border-bottom: 1px solid white;
+	text-transform: uppercase;
+	text-align:  center;
+	
+}
+.enterphotos1{
+	  margin-left: 110px;
+	  top: 200px;
+	  margin-top: 200px;
+     width: 1280px;
+     height: 205px;
+     
+     
+}
+.enterphotos1 .images{
+   left: 5px;
+	margin-top: 0px;
+	margin-right: 6px;
+    float: left;
+          
+}
+.enterphotos2{
+	  margin-left: 110px;
+	  top: 200px;
+	  margin-top: 20px;
+     width: 1280px;
+     height: 205px;
+     
+     
+}
+.enterphotos2 .images{
+   left: 5px;
+	margin-top: 0px;
+	margin-right: 6px;
+    float: left;
+          
+}
+.enterphotos3{
+	  margin-left: 110px;
+	  top: 200px;
+	  margin-top: 20px;
+     width: 1280px;
+     height: 205px;
+ 
+     
+}
+.enterphotos3 .images{
+   left: 5px;
+	margin-top: 0px;
+	margin-right: 6px;
+    float: left;
+          
+}
+
+.enterphotos4{
+	  margin-left: 110px;
+	  top: 200px;
+	  margin-top: 20px;
+     width: 1280px;
+     height: 205px;
+     
+     
+}
+.enterphotos4 .images{
+   left: 5px;
+	margin-top: 0px;
+	margin-right: 6px;
+    float: left;
+}
